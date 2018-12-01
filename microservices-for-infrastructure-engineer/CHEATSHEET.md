@@ -113,3 +113,4 @@ docker run -p 8080:8080 -p 8585:8585 -t pushwoosh
 ## Дополнительные материалы
 
 - HighLoad++ 2018: “Лучшие практики нативных облачных сервисов”: [видео](https://youtu.be/MZeXPeyeF6U) и [слайды](https://docs.google.com/presentation/d/1eWJ5eAWEYcLIVVcGdfekKRoBoLANgDolOoP919qKceg/edit#slide=id.p) 
+- GoWayFest 2018: “Best Practices for Cloud-Native Go Services” (больше Go-ориентированных примеров): [видео](https://youtu.be/rRSkbOMTHLw) и [слайды](https://docs.google.com/presentation/d/180D-2HcsJjFTYoOzLs_xLFmEZT_OovZ8RQKPmkmVr1c/edit#slide=id.p)
