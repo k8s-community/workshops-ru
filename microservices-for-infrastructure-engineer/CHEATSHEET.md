@@ -109,3 +109,7 @@ docker run -p 8080:8080 -p 8585:8585 -t pushwoosh
 - Добавить тесты
 - Добавить проверку линтерами
 - Добавить бизнес-логику (например, работу с API Kubernetes)
+
+## Дополнительные материалы
+
+- HighLoad++ 2018: “Лучшие практики нативных облачных сервисов”: [видео](https://youtu.be/MZeXPeyeF6U) и [слайды](https://docs.google.com/presentation/d/1eWJ5eAWEYcLIVVcGdfekKRoBoLANgDolOoP919qKceg/edit#slide=id.p) 
