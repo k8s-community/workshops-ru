@@ -49,6 +49,7 @@
 ## Проверка готовности
 
 Главная страница мастер-класса: https://ui.k8s.community
+
 Kubernetes Dashboard: https://dash.k8s.community
 
 ## Hello, Kubernetes
