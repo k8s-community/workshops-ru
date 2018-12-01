@@ -91,8 +91,8 @@ kubectl apply -f ingress.yaml
 ## Собираем и запускаем докер-образ локально
 
 ```
-docker build -t pushwoosh .
-docker run -p 8080:8080 -p 8585:8585 -t pushwoosh
+docker build -t nsk .
+docker run -p 8080:8080 -p 8585:8585 -t nsk
 ```
 
 ## Программа-минимум
