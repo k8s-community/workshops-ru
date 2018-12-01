@@ -8,13 +8,14 @@
 
 ### Игорь Должиков
 
-Ловите Игоря оффлайн :)
+- https://github.com/takama
+- Ловите Игоря оффлайн :)
 
 ### Елена Граховац
 
-- hello@grahovac.pro
-- https://twitter.com/webdeva
 - https://github.com/rumyantseva
+- https://twitter.com/webdeva
+- hello@grahovac.pro
 
 ## Чек-лист
 
